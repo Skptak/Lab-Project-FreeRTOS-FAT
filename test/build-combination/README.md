@@ -1,7 +1,7 @@
 # Build Instructions
 
 This test aims at finding only compilation issues and as a result, the
-generated binary is not runnable.
+generated binary is not runnable.   
 
 ## UNIX (Linux and Mac)
 

@@ -35,12 +35,12 @@
  **/
 
 #include <stdlib.h>
-            #include <string.h>
+#include <string.h>
 #include <ctype.h>
 
 #include "ff_headers.h"
 
-#if (           ffconfigUNICODE_UTF16_SUPPORT != 0)
+#if ( ffconfigUNICODE_UTF16_SUPPORT != 0 )
     #include <wchar.h>
     #include <wctype.h>
 #endif
